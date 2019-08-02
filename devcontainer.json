@@ -1,0 +1,21 @@
+{
+
+    "name": "Agileboard UI",
+
+    "appPort": 3000,
+
+    "extensions": [
+
+        "dbaeumer.vscode-eslint"
+
+    ],
+
+    "settings": {
+
+        "terminal.integrated.shell.linux": "/bin/bash"
+
+    },
+
+    "postCreateCommand": "cat README.md"
+
+}
